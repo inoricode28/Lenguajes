@@ -1,0 +1,13 @@
+//dependencias del proyecto
+npm i dotenv express promise-mysql
+
+
+//dependencias solo para desarrollo
+
+npm i @babel/cli @babel/core @babel/node @babel/preset-env morgan nodemon -D
+
+
+"scripts": {
+    "babel-node": "babel-node --preset=@babel/preset-env",
+    "dev": "nodemon --exec npm run babel-node src/index.js"
+  },

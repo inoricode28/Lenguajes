@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_Lenguajes</string>
+    <string name="Titulo">Lenguajes</string>
+    <string name="ID">ID</string>
+    <string name="Name">Lenguaje</string>
+    <string name="Programmer">Programador</string>
+    <string name="Create">Guardar</string>
+    <string name="Read">Mostrar</string>
+    <string name="Update">Actualizar</string>
+    <string name="Delete">Eliminar</string>
+</resources>
